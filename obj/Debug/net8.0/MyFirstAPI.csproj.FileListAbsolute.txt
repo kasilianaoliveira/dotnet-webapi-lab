@@ -18,6 +18,7 @@ C:\Users\kasiliana\source\repos\MyFirstAPI\obj\Debug\net8.0\MyFirstAPI.AssemblyI
 C:\Users\kasiliana\source\repos\MyFirstAPI\obj\Debug\net8.0\MyFirstAPI.csproj.CoreCompileInputs.cache
 C:\Users\kasiliana\source\repos\MyFirstAPI\obj\Debug\net8.0\MyFirstAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\kasiliana\source\repos\MyFirstAPI\obj\Debug\net8.0\MyFirstAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kasiliana\source\repos\MyFirstAPI\obj\Debug\net8.0\MyFirstAPI.sourcelink.json
 C:\Users\kasiliana\source\repos\MyFirstAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
 C:\Users\kasiliana\source\repos\MyFirstAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\Users\kasiliana\source\repos\MyFirstAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
@@ -26,7 +27,7 @@ C:\Users\kasiliana\source\repos\MyFirstAPI\obj\Debug\net8.0\staticwebassets.buil
 C:\Users\kasiliana\source\repos\MyFirstAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\kasiliana\source\repos\MyFirstAPI\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\kasiliana\source\repos\MyFirstAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\kasiliana\source\repos\MyFirstAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\kasiliana\source\repos\MyFirstAPI\obj\Debug\net8.0\swae.build.ex.cache
 C:\Users\kasiliana\source\repos\MyFirstAPI\obj\Debug\net8.0\MyFirstAPI.csproj.Up2Date
 C:\Users\kasiliana\source\repos\MyFirstAPI\obj\Debug\net8.0\MyFirstAPI.dll
 C:\Users\kasiliana\source\repos\MyFirstAPI\obj\Debug\net8.0\refint\MyFirstAPI.dll
