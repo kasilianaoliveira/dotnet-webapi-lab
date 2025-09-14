@@ -1,5 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using Microsoft.AspNetCore.Mvc;
+using MyFirstAPI.Communication.Requests;
+using MyFirstAPI.Communication.Responses;
 
 namespace MyFirstAPI.Controllers;
 
@@ -45,8 +47,14 @@ public class UserController : ControllerBase
 
 
     [HttpPost]
-    public IActionResult CreateUser()
+    [ProducesResponseType(typeof(RequestRegisteredUserJson), StatusCodes.Status200OK)]
+    [ProducesResponseType(typeof(string), StatusCodes.Status400BadRequest)]
+    public IActionResult CreateUser([FromBody] RequestRegisteredUserJson request)
     {
-        return Created();
+        var response = new ResponsesRegisteredUserJson
+        {
+            Id = 1, Name = request.Name
+        };
+        return Created(string.Empty, response);
     }
 }
